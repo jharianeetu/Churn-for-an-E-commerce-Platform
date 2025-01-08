@@ -12,10 +12,7 @@ This project predicts customer churn for an e-commerce platform using machine le
 
 1. Clone the repository or download the project files.
    
-   git clone <repository_url>
-   cd <project_directory>
-   
-   
+   git clone <https://github.com/jharianeetu/Churn-for-an-E-commerce-Platform>
 	
 2. Install the required dependencies:
 
